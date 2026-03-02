@@ -1,0 +1,54 @@
+//Console.WriteLine("Hello, World!");
+
+//Console.WriteLine("Podaj imię: ");
+//string name = Console.ReadLine();
+//Console.WriteLine($"witaj {name}");
+//Console.WriteLine("witaj " + name);
+
+//Console.WriteLine("Podaj liczbę: ");
+//string input = Console.ReadLine();
+//if (int.TryParse(input, out int n)) //bezpieczne zczytywanie danych
+//{
+//    Console.WriteLine($"Podana liczba {n}");
+//}
+//else {
+//    Console.WriteLine("Podano błędne dane");
+//}
+
+////int liczba = int.Parse(Console.ReadLine());
+////Console.WriteLine($"Podana liczba {liczba}");
+
+//Console.WriteLine("Podaj liczę zmiennęprzcinkową: ");
+//double liczbaA = double.Parse(Console.ReadLine());
+
+
+
+//Console.WriteLine("Podaj literę: ");
+//char znak = Console.ReadKey().KeyChar; //zczytywanie jednego znaku
+
+//Console.WriteLine("Podaj imię: ");
+//string name = Console.ReadLine();
+
+//Console.WriteLine("Podaj wiek: ");
+//int age;
+
+//while (!int.TryParse(Console.ReadLine(), out age)) {
+//    Console.WriteLine("Podaj poprawną liczbę");
+//}
+//Console.WriteLine($"Imię: {name}, wiek: {age}");
+
+
+
+//string[] strings = new string[2];
+//strings[0] = "11";
+//int[] numberArr = { 1, 2, 3, 4 };
+//int[,] numbers = { { 1, 4, 2 }, { 3, 6, 8 } };
+///// <summary> komentarze
+///// to metoda do obliczania sumy dwóch liczb
+///// <summary>
+//double suma(double a, double b) { return a + b; }
+
+//foreach (string elem in strings)
+//{
+//    Console.WriteLine(elem);
+//}

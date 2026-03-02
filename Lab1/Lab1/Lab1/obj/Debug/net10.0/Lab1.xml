@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lab1</name>
+    </assembly>
+    <members>
+        <member name="M:Lab1.Task1.TaskLab.Run">
+            <summary>
+            Metoda urushomienia dla zadań
+            </summary>
+            <remarks>
+            Autor: Diana Vaida
+            data: 02.03.2026
+            środowisko: .net10
+            </remarks>    
+        </member>
+        <member name="M:Lab1.Task1.TaskLab.rownanieKw">
+            <summary>
+            Metoda obliczająca wyróżnik delta i pierwiastki trójmianu kwadratowego
+             </summary>
+             
+        </member>
+        <member name="M:Lab1.Task1.TaskLab.inputDouble(System.String)">
+            <summary>
+            Metoda która pobiera string usera i wykonuje konwersje na double. Wymusza poprawne podanie liczby
+             </summary>
+        </member>
+        <member name="M:Lab1.Task1.TaskLab.inputInt(System.String)">
+            <summary>
+            Metoda która pobiera string usera i wykonuje konwersje na int. Wymusza poprawne podanie liczby
+             </summary>
+        </member>
+        <member name="M:Lab1.Task1.TaskLab.LosujTabliceDouble(System.Int32,System.Double,System.Double)">
+            <summary> 
+            Losuje tablicę n liczb double z przedziału [min, max]. 
+            </summary> 
+        </member>
+        <member name="M:Lab1.Task1.TaskLab.Task2">
+            <summary>
+            Napisz program umożliwiający wprowadzanie 10-ciu liczb. Dla wprowadzonych liczb wykonaj odpowiednie algorytmy
+            oblicz sumę elementów tablicy, 
+            oblicz iloczyn elementów tablicy,
+            wyznacz wartość średnią, 
+            wyznacz wartość minimalną, 
+            wyznacz wartość maksymalną.
+            </summary>
+        </member>
+        <member name="M:Lab1.Task1.TaskLab.Task3">
+            <summary>
+            Napisz program wyświetlający liczby od 20-0, z wyłączeniem liczb {2,6,9,15,19}. Do realizacji zadania wyłączenia użyj instrukcji continue;
+            </summary>
+        </member>
+        <member name="M:Lab1.Task1.TaskLab.Task4">
+            <summary>
+            Napisz program, który w nieskończoność pyta użytkownika o liczby całkowite. Pętla nieskończona powinna się zakończyć gdy użytkownik wprowadzi liczbę mniejszą od zera.
+            </summary>
+        </member>
+        <member name="M:Lab1.Task1.TaskLab.Task5">
+            <summary>
+            Napisz program umożliwiający wprowadzanie n liczb oraz sortujący te liczby metodą bąbelkową lub wstawiania
+            </summary>
+        </member>
+    </members>
+</doc>
