@@ -1,0 +1,15 @@
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\bin\Debug\net10.0\Lab3.exe
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\bin\Debug\net10.0\Lab3.deps.json
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\bin\Debug\net10.0\Lab3.runtimeconfig.json
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\bin\Debug\net10.0\Lab3.dll
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\bin\Debug\net10.0\Lab3.pdb
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\obj\Debug\net10.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\obj\Debug\net10.0\Lab3.AssemblyInfoInputs.cache
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\obj\Debug\net10.0\Lab3.AssemblyInfo.cs
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\obj\Debug\net10.0\Lab3.csproj.CoreCompileInputs.cache
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\obj\Debug\net10.0\Lab3.sourcelink.json
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\obj\Debug\net10.0\Lab3.dll
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\obj\Debug\net10.0\refint\Lab3.dll
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\obj\Debug\net10.0\Lab3.pdb
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\obj\Debug\net10.0\Lab3.genruntimeconfig.cache
+D:\Uniwersytet\4semestr\PO2\Lab\Lab-C-\Lab3\Lab3\obj\Debug\net10.0\ref\Lab3.dll

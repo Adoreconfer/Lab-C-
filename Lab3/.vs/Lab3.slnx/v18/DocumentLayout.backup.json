@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab3\\lab3\\task\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|solutionrelative:lab3\\task\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab3\\lab3\\class\\adventurebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|solutionrelative:lab3\\class\\adventurebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab3\\lab3\\class\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|solutionrelative:lab3\\class\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab3\\lab3\\class\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|solutionrelative:lab3\\class\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab3\\lab3\\class\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|solutionrelative:lab3\\class\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab3\\lab3\\class\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|solutionrelative:lab3\\class\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|Lab3\\Lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reviewer.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Class\\Reviewer.cs",
+              "RelativeDocumentMoniker": "Lab3\\Class\\Reviewer.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Class\\Reviewer.cs",
+              "RelativeToolTip": "Lab3\\Class\\Reviewer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:44:55.432Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Samochod.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Class\\Samochod.cs",
+              "RelativeDocumentMoniker": "Lab3\\Class\\Samochod.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Class\\Samochod.cs",
+              "RelativeToolTip": "Lab3\\Class\\Samochod.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T15:02:32.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdventureBook.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Class\\AdventureBook.cs",
+              "RelativeDocumentMoniker": "Lab3\\Class\\AdventureBook.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Class\\AdventureBook.cs",
+              "RelativeToolTip": "Lab3\\Class\\AdventureBook.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:10:31.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Task\\Task.cs",
+              "RelativeDocumentMoniker": "Lab3\\Task\\Task.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Task\\Task.cs",
+              "RelativeToolTip": "Lab3\\Task\\Task.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAwGIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:35:56.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Class\\Person.cs",
+              "RelativeDocumentMoniker": "Lab3\\Class\\Person.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Class\\Person.cs",
+              "RelativeToolTip": "Lab3\\Class\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:10:04.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Class\\Book.cs",
+              "RelativeDocumentMoniker": "Lab3\\Class\\Book.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Class\\Book.cs",
+              "RelativeToolTip": "Lab3\\Class\\Book.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:05:46.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3\\Program.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab3\\Lab3\\Program.cs",
+              "RelativeToolTip": "Lab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:35:02.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
