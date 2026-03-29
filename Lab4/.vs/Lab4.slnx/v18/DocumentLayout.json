@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab4\\lab4\\class\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|solutionrelative:lab4\\class\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab4\\lab4\\class\\personextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|solutionrelative:lab4\\class\\personextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab4\\lab4\\task\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|solutionrelative:lab4\\task\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab4\\lab4\\class\\studentwsiiz .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|solutionrelative:lab4\\class\\studentwsiiz .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab4\\lab4\\class\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|solutionrelative:lab4\\class\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab4\\lab4\\class\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|solutionrelative:lab4\\class\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab4\\lab4\\class\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|solutionrelative:lab4\\class\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab4\\lab4\\class\\nauczyciel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|solutionrelative:lab4\\class\\nauczyciel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab4\\lab4\\class\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|solutionrelative:lab4\\class\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab4\\lab4\\class\\uczen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|solutionrelative:lab4\\class\\uczen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|Lab4\\Lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentWSIiZ .cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\StudentWSIiZ .cs",
+              "RelativeDocumentMoniker": "Lab4\\Class\\StudentWSIiZ .cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\StudentWSIiZ .cs",
+              "RelativeToolTip": "Lab4\\Class\\StudentWSIiZ .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T20:57:17.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\Student.cs",
+              "RelativeDocumentMoniker": "Lab4\\Class\\Student.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\Student.cs",
+              "RelativeToolTip": "Lab4\\Class\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T20:54:35.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\IStudent.cs",
+              "RelativeDocumentMoniker": "Lab4\\Class\\IStudent.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\IStudent.cs",
+              "RelativeToolTip": "Lab4\\Class\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T20:53:58.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonExtensions.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\PersonExtensions.cs",
+              "RelativeDocumentMoniker": "Lab4\\Class\\PersonExtensions.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\PersonExtensions.cs",
+              "RelativeToolTip": "Lab4\\Class\\PersonExtensions.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA9wBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T20:48:47.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\Person.cs",
+              "RelativeDocumentMoniker": "Lab4\\Class\\Person.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\Person.cs",
+              "RelativeToolTip": "Lab4\\Class\\Person.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T10:24:31.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\IPerson.cs",
+              "RelativeDocumentMoniker": "Lab4\\Class\\IPerson.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\IPerson.cs",
+              "RelativeToolTip": "Lab4\\Class\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:55:42.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nauczyciel.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\Nauczyciel.cs",
+              "RelativeDocumentMoniker": "Lab4\\Class\\Nauczyciel.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\Nauczyciel.cs",
+              "RelativeToolTip": "Lab4\\Class\\Nauczyciel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T21:24:53.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Osoba.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\Osoba.cs",
+              "RelativeDocumentMoniker": "Lab4\\Class\\Osoba.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\Osoba.cs",
+              "RelativeToolTip": "Lab4\\Class\\Osoba.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwEkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:01:04.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Uczen.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\Uczen.cs",
+              "RelativeDocumentMoniker": "Lab4\\Class\\Uczen.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Class\\Uczen.cs",
+              "RelativeToolTip": "Lab4\\Class\\Uczen.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T20:24:37.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Task\\Task.cs",
+              "RelativeDocumentMoniker": "Lab4\\Task\\Task.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Task\\Task.cs",
+              "RelativeToolTip": "Lab4\\Task\\Task.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwFoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:19:53.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4\\Program.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab4\\Lab4\\Program.cs",
+              "RelativeToolTip": "Lab4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:00:07.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
