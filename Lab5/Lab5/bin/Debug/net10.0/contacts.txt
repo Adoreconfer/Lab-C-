@@ -1,0 +1,2 @@
+1;Jan Kowalski;jan@email.com
+2;Anna Nowak;anna@gmail.com

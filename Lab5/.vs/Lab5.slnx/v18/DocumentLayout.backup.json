@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab5\\lab5\\filelab\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|solutionrelative:lab5\\filelab\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab5\\lab5\\filelab\\jsonpopulationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|solutionrelative:lab5\\filelab\\jsonpopulationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab5\\lab5\\filelab\\population.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|solutionrelative:lab5\\filelab\\population.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab5\\lab5\\filelab\\indicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|solutionrelative:lab5\\filelab\\indicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab5\\lab5\\filelab\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|solutionrelative:lab5\\filelab\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab5\\lab5\\filelab\\jsoncontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|solutionrelative:lab5\\filelab\\jsoncontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab5\\lab5\\filelab\\txtcontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|solutionrelative:lab5\\filelab\\txtcontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab5\\lab5\\filelab\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4703FE4-B806-9E52-08B2-5C97A7CB3396}|Lab5\\Lab5.csproj|solutionrelative:lab5\\filelab\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\Country.cs",
+              "RelativeDocumentMoniker": "Lab5\\FileLab\\Country.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\Country.cs",
+              "RelativeToolTip": "Lab5\\FileLab\\Country.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:07:09.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonPopulationRepository.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\JsonPopulationRepository.cs",
+              "RelativeDocumentMoniker": "Lab5\\FileLab\\JsonPopulationRepository.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\JsonPopulationRepository.cs",
+              "RelativeToolTip": "Lab5\\FileLab\\JsonPopulationRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T16:41:50.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Indicator.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\Indicator.cs",
+              "RelativeDocumentMoniker": "Lab5\\FileLab\\Indicator.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\Indicator.cs",
+              "RelativeToolTip": "Lab5\\FileLab\\Indicator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T16:15:04.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Population.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\Population.cs",
+              "RelativeDocumentMoniker": "Lab5\\FileLab\\Population.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\Population.cs",
+              "RelativeToolTip": "Lab5\\FileLab\\Population.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T16:14:26.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Run.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\Run.cs",
+              "RelativeDocumentMoniker": "Lab5\\FileLab\\Run.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\Run.cs",
+              "RelativeToolTip": "Lab5\\FileLab\\Run.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T10:48:47.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5\\Program.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\Program.cs",
+              "RelativeToolTip": "Lab5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:43:50.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonContactRepository.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\JsonContactRepository.cs",
+              "RelativeDocumentMoniker": "Lab5\\FileLab\\JsonContactRepository.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\JsonContactRepository.cs",
+              "RelativeToolTip": "Lab5\\FileLab\\JsonContactRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T10:10:42.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TxtContactRepository.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\TxtContactRepository.cs",
+              "RelativeDocumentMoniker": "Lab5\\FileLab\\TxtContactRepository.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\TxtContactRepository.cs",
+              "RelativeToolTip": "Lab5\\FileLab\\TxtContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T10:10:31.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\Task.cs",
+              "RelativeDocumentMoniker": "Lab5\\FileLab\\Task.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab5\\Lab5\\FileLab\\Task.cs",
+              "RelativeToolTip": "Lab5\\FileLab\\Task.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:44:56.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
