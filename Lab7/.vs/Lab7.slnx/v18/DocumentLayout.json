@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01CBB298-6E3E-1D39-A8CF-79D8CB0EDD08}|Lab7\\Lab7.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab7\\lab7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01CBB298-6E3E-1D39-A8CF-79D8CB0EDD08}|Lab7\\Lab7.csproj|solutionrelative:lab7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CBB298-6E3E-1D39-A8CF-79D8CB0EDD08}|Lab7\\Lab7.csproj|d:\\uniwersytet\\4semestr\\po2\\lab\\lab-c-\\lab7\\lab7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CBB298-6E3E-1D39-A8CF-79D8CB0EDD08}|Lab7\\Lab7.csproj|solutionrelative:lab7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 266,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab7\\Lab7\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab7\\MainWindow.xaml",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab7\\Lab7\\MainWindow.xaml",
+              "RelativeToolTip": "Lab7\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T09:44:01.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab7\\Lab7\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab7\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Uniwersytet\\4semestr\\PO2\\Lab\\Lab-C-\\Lab7\\Lab7\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab7\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:39:10.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
